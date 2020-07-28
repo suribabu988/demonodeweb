@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/suribabu988/demonodeweb/issues"
   },
-  "homepage": "https://github.com/suribabu988/demonodeweb#readme",
+  "homepage": "https://suribabu988.github.io/demonodeweb/",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.4"
